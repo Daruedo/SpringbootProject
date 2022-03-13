@@ -8,6 +8,7 @@
 - [x] Mostra um produto.
 - [x] Lista os produtos. Aceita paginação. No máximo, 5 produtos por página.
 
+OBSERVAÇÂO: collection do postman anexada ao projeto.
 
 <h4> Tecnologias:</h4>
 
